@@ -7,6 +7,8 @@ Sou graduada em Análise e Desenvolvimento de Sistema com formações extracurri
 [![Email](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kellyrrmartins)
 
 ![Kelly GitHub stats](https://github-readme-stats.vercel.app/api?username=kellyrmartins&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellyrmartin&layout=compact)](https://github.com/kellyrmartins/github-readme-stats)
+
 
 ## Tecnologias que eu uso no meu dia
 
